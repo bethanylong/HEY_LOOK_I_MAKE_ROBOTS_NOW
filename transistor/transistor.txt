@@ -1,0 +1,11 @@
+No code lol just transistors
+
+https://forum.hackmakemod.com/index.php?resources/fun-with-transistors.8/
+https://www.youtube.com/watch?v=5vRAACeebjI
+
+
+Higher capacitance = slower blinking
+More capacitance in parallel = slower blinking
+More capacitance in SERIES = faster blinking???
+Can replace an LED with a buzzer to make noise instead
+Can also remove an LED (but not the rest of the circuit) and frequency will increase
